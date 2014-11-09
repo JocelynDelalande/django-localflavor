@@ -12,6 +12,7 @@ Authors
 * Andrew Godwin
 * Aymeric Augustin
 * Ben Davis
+* Ben Konrath
 * Bruno M. Custódio
 * Claude Paroz
 * Douglas Miranda
